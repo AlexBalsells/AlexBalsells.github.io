@@ -1,11 +1,11 @@
-.flex_wrapper {
+.flex__wrapper {
 	display: flex;
 	position: relative;
 	background-color: #eee;
 	flex-wrap: wrap:
 }
 @media screen and (min-width:1024px) {
-	.flex_wrapper {
+	.flex__wrapper {
 		max-width: 56%;
 	}
 }
